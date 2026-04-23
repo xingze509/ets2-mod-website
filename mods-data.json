@@ -1,0 +1,34 @@
+{
+  "mods": [
+    {
+      "id": 1,
+      "name": "宝马 M4 竞赛版",
+      "category": "小车",
+      "description": "精致宝马M4轿车模组，独立内饰，真实引擎声浪。",
+      "image": "https://www.ets288.cn/uploads/1776767762_69e753129ca66.png",
+      "downloads": 12780,
+      "size": "215 MB",
+      "author": "CarLover",
+      "version": "1.50",
+      "downloadUrl": "#",
+      "detailDesc": "宝马 M4 竞赛版为欧卡2带来全新的驾驶体验，高精度建模，真实物理反馈，支持多种涂装。",
+      "detailImage": "https://www.ets288.cn/uploads/1776767762_69e753129ca66.png",
+      "uploadDate": "2026.03.20"
+    },
+    {
+      "id": 2,
+      "name": "奥迪 RS6 Avant 2024",
+      "category": "小车",
+      "description": "高性能旅行车，高精模型，支持改装轮毂和涂装。",
+      "image": "https://www.ets288.cn/uploads/1776767762_69e753129ca66.png",
+      "downloads": 9830,
+      "size": "198 MB",
+      "author": "AutoMod",
+      "version": "1.49",
+      "downloadUrl": "#",
+      "detailDesc": "奥迪 RS6 Avant 2024 款，性能与优雅的结合，内饰精致，引擎声浪经过专业采样。",
+      "detailImage": "https://www.ets288.cn/uploads/1776767762_69e753129ca66.png",
+      "uploadDate": "2026.03.21"
+    }
+  ]
+}
