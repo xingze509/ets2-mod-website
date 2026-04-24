@@ -14,6 +14,21 @@
       "detailDesc": "修复了外部灯光，添加了车牌 和更多内饰灯光，改进了物理引擎和发动机，更改了引擎音效，最高速度：280 公里/小时",
       "detailImage": "https://s41.ax1x.com/2026/04/24/peWBW4K.png",
       "id": 1
+    },
+    {
+      "name": "Skoda Octavia 2022 RS",
+      "category": "小车",
+      "version": "3.2",
+      "author": "Gaza",
+      "size": "40.89",
+      "downloads": 350,
+      "uploadDate": "2026.04.24",
+      "description": "增加内饰灯，最高时速223公里/小时",
+      "image": "https://s41.ax1x.com/2026/04/24/peWDpuj.png",
+      "downloadUrl": "https://pan.quark.cn/s/c9ab4942d6c8",
+      "detailDesc": "增加内饰灯，最高时速223公里/小时",
+      "detailImage": "https://s41.ax1x.com/2026/04/24/peWDpuj.png",
+      "id": 2
     }
   ]
 }
